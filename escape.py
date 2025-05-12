@@ -1,3 +1,6 @@
+# Fórmula velocidad de escape:
+# 𝑉e = raíz(2*g*r)
+
 # importa libreria math
 import math
 
